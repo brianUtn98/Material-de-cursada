@@ -15,6 +15,8 @@ Acá recompilé todos los parciales que se fueron resolviendo/tp's en clase!
 * [Cocineros argentinos](https://github.com/brianUtn98/cocineros-argentinos-resolucion)
 * [Combinación de colores](https://github.com/brianUtn98/combinacion-de-colores-resolucion)
 
+### Ejercicios
+
 # Objetos
 
 ### Parciales
