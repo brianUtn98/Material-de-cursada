@@ -7,6 +7,7 @@ Acá recompilé todos los parciales que se fueron resolviendo/tp's en clase!
 ### Parciales
 * [La argentina nos regala sabores](https://github.com/brianUtn98/la-argentina-nos-regala-sabores)
 * [HaskellPark](https://github.com/brianUtn98/haskellPark)
+* [Amazin](https://github.com/brianUtn98/amazin-resolucion)
 
 ### Ejercicios
 
