@@ -8,6 +8,8 @@ Acá recompilé todos los parciales que se fueron resolviendo/tp's en clase!
 * [La argentina nos regala sabores](https://github.com/brianUtn98/la-argentina-nos-regala-sabores)
 * [HaskellPark](https://github.com/brianUtn98/haskellPark)
 
+### Ejercicios
+
 # Lógico
 
 ### Parciales
