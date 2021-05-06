@@ -17,6 +17,7 @@ Acá recompilé todos los parciales que se fueron resolviendo/tp's en clase!
 * [Santa Cecilia](https://github.com/brianUtn98/santa-secilia-solucion)
 * [Cocineros argentinos](https://github.com/brianUtn98/cocineros-argentinos-resolucion)
 * [Combinación de colores](https://github.com/brianUtn98/combinacion-de-colores-resolucion)
+* [Inmobiliarias](https://github.com/brianUtn98/inmobiliarias-resolucion)
 
 ### Ejercicios
 
